@@ -1,7 +1,7 @@
 ### 📚 General Fourier Transform Pairs (Continuous-Time)
 
 1. **Dirac Delta Function**  
-   $( x(t) = \delta(t) \)  $
+   \( x(t) = \delta(t) \)  
    \( X(j\omega) = 1 \)
 
 2. **Constant Signal**  
@@ -47,4 +47,3 @@
 12. **Hilbert Transform Kernel**  
    \( x(t) = \frac{1}{\pi t} \)  
    \( X(j\omega) = -j \cdot \text{sgn}(\omega) \)
-
